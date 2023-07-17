@@ -39,7 +39,3 @@ Contributions to this project are welcome! If you have any ideas, bug fixes, or 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README file based on your actual implementation and add relevant images/screenshots to showcase your Todo List application. Remember to update the links and sections accordingly. Happy coding and showcasing your project on GitHub!
